@@ -3,7 +3,7 @@ title: "OpenStax 관리회계 (Vol.2)"
 type: source
 status: reviewed
 evidence_tier: 1
-confirmed_by: 조원B
+confirmed_by: 이혜림
 source_ids:
   - SRC-20260814-103
 updated: 2026-08-14
@@ -16,7 +16,7 @@ updated: 2026-08-14
 - 원문 파일: [[raw/SRC-20260814-103-openstax-managerial-accounting]]
 - 링크: https://openstax.org/books/principles-managerial-accounting
 - 읽은 범위: 7.4 Prepare Flexible Budgets · 8.5 Describe How Companies Use Variance Analysis
-- 확인일: 2026-08-14 · 확인자: 조원B · 성격: 공식 오픈교재
+- 확인일: 2026-08-14 · 확인자: 이혜림 · 성격: 공식 오픈교재
 
 ## 이 자료로 답할 질문
 
@@ -30,7 +30,7 @@ updated: 2026-08-14
 
 ## 사용처
 
-- Q3 차이·부호 해석의 도메인 근거이자, '미정'인 차이 임계값 기준(범위 밖만 설명)의 실제 근거.
+- Q3 차이·부호 해석의 도메인 근거이자, 차이 임계값을 **달성율 ±10%(범위 밖만 설명)** 로 확정한 근거. → [[wiki/decisions/차이임계값-채택]]
 
 ## 관련 문서
 

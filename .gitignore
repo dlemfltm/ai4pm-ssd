@@ -1,0 +1,32 @@
+# 캡처·이미지 (도서·화면 캡처 차단)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+
+# PDF·문서 전사본 (저작권·보호 자료 차단)
+*.pdf
+*.docx
+*.pptx
+*전사*
+*자막*
+*transcript*
+
+# 제출용 압축본 (git으로 제출하므로 추적하지 않음)
+*.zip
+
+# 로컬 전용 설정 (PC마다 다름)
+.claude/settings.local.json
+
+# 임시·시스템
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+scratchpad/
+
+# 주의: vault/ 및 week1-제출/의 .md 지식·제출 문서는 추적한다(무시하지 않음).

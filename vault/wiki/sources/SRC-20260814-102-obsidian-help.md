@@ -3,7 +3,7 @@ title: "Obsidian 공식 도움말"
 type: source
 status: reviewed
 evidence_tier: 1
-confirmed_by: 조원A
+confirmed_by: 윤호석
 source_ids:
   - SRC-20260814-102
 updated: 2026-08-14
@@ -15,7 +15,7 @@ updated: 2026-08-14
 
 - 원문 파일: [[raw/SRC-20260814-102-obsidian-help]]
 - 링크: https://help.obsidian.md/Linking+notes+and+files/Internal+links
-- 확인일: 2026-08-14 · 확인자: 조원A · 성격: 공식 문서
+- 확인일: 2026-08-14 · 확인자: 윤호석 · 성격: 공식 문서
 
 ## 이 자료로 답할 질문
 

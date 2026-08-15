@@ -1,7 +1,7 @@
 # 원문 요지 · OpenStax, Managerial Accounting Vol.2
 
 - 출처: https://openstax.org/books/principles-managerial-accounting (7.4 Flexible Budgets · 8.5 Variance Analysis)
-- 확인일: 2026-08-14 · 확인자: 조원B · 성격: 공식 오픈교재
+- 확인일: 2026-08-14 · 확인자: 이혜림 · 성격: 공식 오픈교재
 - ※ 원문을 읽고 요약한 사실 메모.
 
 ## 확인된 사실

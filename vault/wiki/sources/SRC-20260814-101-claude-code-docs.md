@@ -3,7 +3,7 @@ title: "Claude Code 공식 문서"
 type: source
 status: reviewed
 evidence_tier: 1
-confirmed_by: 조장
+confirmed_by: 이현옥
 source_ids:
   - SRC-20260814-101
 updated: 2026-08-14
@@ -15,7 +15,7 @@ updated: 2026-08-14
 
 - 원문 파일: [[raw/SRC-20260814-101-claude-code-docs]]
 - 링크: https://code.claude.com/docs/en/memory
-- 확인일: 2026-08-14 · 확인자: 조장 · 성격: 공식 문서
+- 확인일: 2026-08-14 · 확인자: 이현옥 · 성격: 공식 문서
 
 ## 이 자료로 답할 질문
 

@@ -1,7 +1,7 @@
 # 원문 요지 · Obsidian 공식 도움말
 
 - 출처: https://help.obsidian.md (Internal links · Graph view · Properties)
-- 확인일: 2026-08-14 · 확인자: 조원A · 성격: 공식 문서
+- 확인일: 2026-08-14 · 확인자: 윤호석 · 성격: 공식 문서
 - ※ 원문을 읽고 요약한 사실 메모.
 
 ## 확인된 사실

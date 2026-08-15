@@ -1,7 +1,7 @@
 # 원문 요지 · Claude Code 공식 문서
 
 - 출처: https://code.claude.com/docs/en/memory (Memory) · /sub-agents · /skills
-- 확인일: 2026-08-14 · 확인자: 조장 · 성격: 공식 문서
+- 확인일: 2026-08-14 · 확인자: 이현옥 · 성격: 공식 문서
 - ※ 아래는 원문을 읽고 요약한 사실 메모(발췌 아님).
 
 ## 확인된 사실

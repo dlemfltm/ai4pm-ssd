@@ -31,7 +31,8 @@ updated: 2026-08-14
 
 ## 결정 (Decisions)
 
-- [[wiki/decisions/차이임계값-채택]] — 범위 밖 차이만 원인 규명(수치 미정)
+- [[wiki/decisions/차이임계값-채택]] — 달성율 ±10% 초과만 원인 규명, 유리=파랑·불리=빨강
+- [[wiki/decisions/실적-빈값-처리]] — actual 빈값·0·음수는 데이터 오류
 - [[wiki/decisions/역할경계-채택]] — 가공은 AI, 승인·판정은 사람
 
 ## 프로젝트 (Projects)

@@ -3,7 +3,7 @@ title: "plan=0 예외 처리"
 type: concept
 status: reviewed
 evidence_tier: 2
-confirmed_by: 조원B
+confirmed_by: 이혜림
 source_ids:
   - SRC-20260813-002
 updated: 2026-08-14
